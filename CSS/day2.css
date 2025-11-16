@@ -1,0 +1,39 @@
+/* Title styling */
+.title {
+  color: #0a66c2;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+/* Paragraph styling */
+.desc {
+  font-size: 1.2rem;
+  color: rgba(0, 0, 0, 0.7);
+  text-align: center;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+/* Card */
+.card {
+  width: 60%;
+  padding: 20px;
+  margin: auto;
+  border: 2px solid #ddd;
+  background-color: #f9f9f9;
+}
+
+/* Card title */
+.card-title {
+  font-size: 1.8rem;
+  color: #222;
+  margin-bottom: 10px;
+}
+
+/* Card text */
+.card-text {
+  font-size: 1rem;
+  line-height: 1.5;
+}
