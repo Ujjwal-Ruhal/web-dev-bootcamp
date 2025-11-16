@@ -1,0 +1,27 @@
+/* Element selector */
+.main-title {
+  color: darkblue;
+  text-align: center;
+  font-size: 32px;
+}
+
+
+/* ID selector */
+#intro {
+  color: green;
+  font-size: 18px;
+}
+
+/* Class selector */
+.box {
+  padding: 20px;
+  border: 3px solid black;
+  margin: 30px;
+  background-color: #f2f2f2;
+}
+
+/* Another class selector */
+.main-title {
+  text-align: center;
+  font-size: 32px;
+}
